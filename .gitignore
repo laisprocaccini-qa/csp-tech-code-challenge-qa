@@ -1,0 +1,13 @@
+.classpath
+.github
+.history/
+.idea/
+.project
+.settings/
+.vscode/
+*.code-workspace
+*.iml
+bin/
+out/
+results/**
+target
